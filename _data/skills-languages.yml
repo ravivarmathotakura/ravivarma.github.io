@@ -5,13 +5,13 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: Python
   weight: 5
 
-- name: JavaScript
+- name: SQL
   weight: 4
 
-- name: Python
+- name: R
   weight: 2
 
 - name: HTML5
@@ -23,7 +23,7 @@
 - name: SASS
   weight: 3
 
-- name: Java
+- name: SAP BODS
   weight: 1
 
 - name: Dart
