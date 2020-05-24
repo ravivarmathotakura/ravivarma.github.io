@@ -17,45 +17,46 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Sonata Software
+  title-url: https://www.sonata-software.com/
+  date: Feb 2017 - Apr 2018
+  subtitle: Senior Data Analyst
   tags:
-    - tag: React
-    - tag: Javascript
+    - tag: SQL Server
+    - tag: SAP BODS
     - tag: Ruby
     - tag: Rails
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: IBM India
+  title-url: https://www.ibm.com/in-en
+  date: Jan 2015 - Jul 2015
+  subtitle: Data Analyst
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: SQL Server
+    - tag: Tableau
+    - tag: Advance Excel
+    - tag: Oracle
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: SchoolCity Learning India Pvt Ltd
+  title-url: https://www.illuminateed.com/about/our-story/
+  date: Aug 2011 - Sep 2014
+  subtitle: Software Engineer as Database Developer
+  tags:
+    - tag: SQL Server
+    - tag: ETL
+    - tag: Scrum Master
+  timeline-side: right
+
+- title: JNTU Kakinada University
+  title-url:
+  date: 2007 - 2010
+  subtitle: Master of Computer Application (M.C.A)
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Andhra University
+  title-url:
+  date: 2004 - 2007
+  subtitle: B.Com Computers
   timeline-side: left
