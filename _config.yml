@@ -7,14 +7,14 @@ title: Ravi Varma T
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/ravivarma.github.io"
+baseurl: "/portfolio"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Ravi Varma
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Science, Machine Learning
+typing_text: Data Science, Machine Learning Devloper
 # email: Your E-Mail address for the email button.
 email: ravivarmathotakura@gmail.com
 # For every social button you want to display, set your username or userid
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: https://github.com/ravivarmathotakura/ravivarma.github.io
+repository: https://github.com/ravivarmathotakura/portfolio
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
