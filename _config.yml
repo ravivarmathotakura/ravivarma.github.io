@@ -34,9 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Currently studying and working on Deep Learning, Computer Vision and Natural Language Processing. I am looking for a job, from Feburary 2020, which would allow me at first to refine my technical skills and my professional qualities. I currently live in the Visakhapatnam, but I am mobile. 
-I was previously Data Scientist and Founder at Dynamic Cancer Care Pvt Ltd (Healthcare Startup) which was shutdown in September 2019, where I advised the team and led strategic data and technology initiatives for Cancer treatement and Oncologist. 
-My experience in applied data science includes leading teams, helping build products, and independent research in the areas of healthcare, education, energy sustainability, Banking and Finance.
+about_me_description: Currently studying and working on Deep Learning, Computer Vision and Natural Language Processing. I am looking for a job, from Feburary 2020, which would allow me at first to refine my technical skills and my professional qualities. I currently live in the Visakhapatnam, but I am mobile. I was previously Data Scientist and Founder at Dynamic Cancer Care Pvt Ltd (Healthcare Startup) which was shutdown in September 2019, where I advised the team and led strategic data and technology initiatives for Cancer treatement and Oncologist. My experience in applied data science includes leading teams, helping build products, and independent research in the areas of healthcare, education, energy sustainability, Banking and Finance.
 
 # SKILLS SECTION
 # show_skills_card:
