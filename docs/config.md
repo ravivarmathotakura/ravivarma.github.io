@@ -12,17 +12,17 @@
 * `username`: This will displayed on the landing page as your name.
 
 * `typing_text`: This will be text, which will be typed before *scroll down for more*.
-  * set this to your job title, e.g. **Fullstack Developer**
+  * set this to your job title, e.g. **Machine Learning Developer**
 * `email`: Your E-Mail address for the email button.
 * Social Link buttons:
   * For every social button you want to display, set your username or userid
   * Usernames or ids can usually be taken from your profile links
   * If you do not use one of the following websites, then leave it empty
   * e.g. since I don't blog on dev.to or have Twitter my configs are like this:
-    * `github_username`: **longpdo**
-    * `codepen_username`: **longpdo**
+    * `github_username`: **ravivarma**
+    * `codepen_username`: **ravivarma**
     * `dev_username`:
-    * `linkedin_username`: **longpdo**
+    * `linkedin_username`: **ravivarma**
     * `twitter_username`:
 
 ## About Me Section
