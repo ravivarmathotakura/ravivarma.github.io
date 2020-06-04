@@ -17,6 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Dynamic Cancer Care Pvt Ltd
+  title-url: https://www.cancure.co.in/
+  date: Jan 2016 - Sept 2019
+  subtitle: Data Scientist and Founder
+  tags:
+    - tag: Python
+    - tag: Web Scraping
+    - tag: Machine Learning
+    - tag: Deep Learning
+  timeline-side: right
+
 - title: Sonata Software
   title-url: https://www.sonata-software.com/
   date: Feb 2017 - Apr 2018
