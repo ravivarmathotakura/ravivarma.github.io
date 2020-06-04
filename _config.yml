@@ -14,7 +14,7 @@ baseurl: "/portfolio"
 username: Ravi Varma
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Scientist & Machine Learning Engineer
+typing_text: Data Scientist | Machine Learning Engineer
 # email: Your E-Mail address for the email button.
 email: ravivarmathotakura@gmail.com
 # For every social button you want to display, set your username or userid
