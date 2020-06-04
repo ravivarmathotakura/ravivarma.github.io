@@ -17,6 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Self Directed
+  title-url: Independent
+  date: Jan 2020 - Present
+  subtitle: Data Scientist
+  tags:
+    - tag: Python
+    - tag: Deep Learning
+    - tag: Computer Vision
+    - tag: Natural Language Processing
+  timeline-side: right
+
 - title: Dynamic Cancer Care Pvt Ltd
   title-url: https://www.cancure.co.in/
   date: Jan 2016 - Sept 2019
