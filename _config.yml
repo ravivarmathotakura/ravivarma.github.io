@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Ravi Varma T
+title: Data Science Portfolio by Ravi Varma
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -14,7 +14,7 @@ baseurl: "/portfolio"
 username: Ravi Varma
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Scientist & Machine Learning Devloper
+typing_text: Data Scientist
 # email: Your E-Mail address for the email button.
 email: ravivarmathotakura@gmail.com
 # For every social button you want to display, set your username or userid
