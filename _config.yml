@@ -72,6 +72,12 @@ projects_title: Projects
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
+tags:
+    - tag: Python
+    - tag: Django
+    - tag: Web Scraping
+    - tag: API's
+    - tag: HTML
 
 # CONTACT SECTION
 # show_contact_card:
