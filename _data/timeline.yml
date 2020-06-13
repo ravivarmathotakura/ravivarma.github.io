@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Self Directed - Independent
+- title: Self Directed - Independent (Freelancer)
   title-url:
   date: Jan 2020 - Present
-  subtitle: Data Scientist
+  subtitle: Data Scientist & Machine Learning Engineer
   tags:
     - tag: Python
     - tag: Deep Learning
@@ -64,7 +64,7 @@
 - title: SchoolCity Learning India Pvt Ltd
   title-url: https://www.illuminateed.com/about/our-story/
   date: Aug 2011 - Sep 2014
-  subtitle: Software Engineer as Database Developer
+  subtitle: Software Engineer
   tags:
     - tag: SQL Server
     - tag: ETL
