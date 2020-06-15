@@ -5,32 +5,32 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Jupyter
   weight: 5
 
-- name: Bash
+- name: Tableau
   weight: 3
 
-- name: Scrum
+- name: Git
   weight: 3
 
-- name: Travis CI
+#- name: Travis CI
+#  weight: 1
+
+- name: PyCharm
   weight: 1
 
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: Sublime Text
   weight: 2
 
-- name: npm
+- name: AWS
   weight: 2
 
-- name: gulp
+- name: Google Colab
   weight: 4
 
 - name: VS Code
-  weight: 3
+  weight: 1
 
-- name: Postman
-  weight: 4
+- name: MySQL
+  weight: 1
