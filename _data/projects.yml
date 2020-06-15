@@ -14,7 +14,8 @@
 #     - tag: Node
 
 - name: CanCure - Treatment Plan
-  descr: > "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: > "Built a competent team from scratch as a startup company. Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement
+in addition to raw information."
   demo:
   tags:
     - tag: Python
@@ -23,8 +24,9 @@
     - tag: API's
     - tag: HTML
 
-- name: | CanCure - Decision Making System
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: CanCure - Decision Making System
+  descr: | "Built a competent team from scratch as a startup company. Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement
+in addition to raw information."
   demo:
   tags:
     - tag: Python
