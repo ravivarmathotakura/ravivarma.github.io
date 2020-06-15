@@ -13,9 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: CanCure - ChatBot
-  descr: "Built a chatbot using Rasa framework which interacts with users and helps them to find a oncologist and cancer related queries."
-    - descr: Product Design and Prototyping.
+- name: CanCure-ChatBot
+  descr: "Built a chatbot using Rasa framework which interacts with users(Patient) and helps them to find a oncologist. \n Users can book an appointment, \n Users can check for the symptoms, \n Cancer related queries."
   demo:
   tags:
     - tag: Python
