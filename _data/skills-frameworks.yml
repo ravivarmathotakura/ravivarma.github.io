@@ -9,19 +9,19 @@
   weight: 5
 
 - name: TensorFlow
-  weight: 3
+  weight: 4
 
 - name: Pandas
   weight: 4
 
 - name: PyTorch
-  weight: 1
-
-- name: Flutter
   weight: 2
 
-- name: NumPy
+- name: Keras
   weight: 3
+
+- name: NumPy
+  weight: 2
 
 - name: Django
   weight: 1
