@@ -18,9 +18,9 @@
   demo:
   tags:
     - tag: Python
+    - tag: NLP
+    - tag: Rasa Framework
     - tag: Django
-    - tag: Web Scraping
-    - tag: API's
     - tag: HTML
 
 - name: CanCure - Decision Making System
