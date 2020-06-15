@@ -14,8 +14,8 @@
 - name: Git
   weight: 3
 
-#- name: Travis CI
-#  weight: 1
+- name: R Studio
+  weight: 2
 
 - name: PyCharm
   weight: 1
