@@ -15,7 +15,7 @@
 
 - name: CanCure - ChatBot
   descr: "Built a chatbot using Rasa framework which interacts with users and helps them to find a oncologist and cancer related queries."
-   - descr: "Product Design and Prototyping."
+    - descr: "Product Design and Prototyping."
   demo:
   tags:
     - tag: Python
