@@ -17,8 +17,8 @@
 - name: HTML5
   weight: 3
 
-- name: CSS3
-  weight: 1
+#- name: CSS3
+ # weight: 1
 
 - name: UNIX
   weight: 2
