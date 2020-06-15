@@ -12,31 +12,21 @@
   weight: 4
 
 - name: R
-  weight: 2
+  weight: 3
 
 - name: HTML5
-  weight: 4
+  weight: 3
 
 - name: CSS3
-  weight: 3
-
-- name: SASS
-  weight: 3
-
-- name: SAP BODS
   weight: 1
 
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
+- name: UNIX
   weight: 2
 
-- name: Ruby
+- name: LaTex
   weight: 2
+  
+ - name: D3.js
+  weight: 1
+
+
