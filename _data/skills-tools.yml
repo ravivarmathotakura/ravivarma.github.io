@@ -35,9 +35,9 @@
 - name: MySQL
   weight: 1
   
-  - name: MS SQL Server
+- name: MS SQL Server
   weight: 1
   
-  - name: SAP BODS
+- name: SAP BODS
   weight: 1
   
