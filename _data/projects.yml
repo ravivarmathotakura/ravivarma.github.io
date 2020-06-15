@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: CanCure - Treatment Plan
-  descr: > "Built a competent team from scratch as a startup company. Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement
+  descr: > "Built a competent team from scratch as a startup company. \n Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement
 in addition to raw information."
   demo:
   tags:
