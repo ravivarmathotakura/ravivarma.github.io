@@ -23,8 +23,8 @@
     - tag: Django
     - tag: HTML
 
-- name: CanCure - Decision Making System
-  descr: "Built a competent team from scratch as a startup company. Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement in addition to raw information."
+- name: CanCure - DMS
+  descr: "Auto classification of health care documents like prescription, doctor notes and health reports. Cancer Treatment Plan recommendations based on diagnosis. Researched new technology for our field, as well as new operational strategies, making recommendations for implementation. Collaborated with team to develop an internal tool that automates the creation of verified users. Create reports based on findings to be presented to executives at monthly board meeting, making recommendations for improvement in addition to raw information."
   demo:
   tags:
     - tag: Python
