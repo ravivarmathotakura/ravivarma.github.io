@@ -13,6 +13,9 @@
 
 - name: Pandas
   weight: 4
+  
+- name: streamlit
+  weight: 4
 
 - name: PyTorch
   weight: 2
