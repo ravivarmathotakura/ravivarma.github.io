@@ -109,7 +109,7 @@ projects:
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
 google-analytics:
-  id: ""
+  id: "G-MZ07JB254P"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
