@@ -17,14 +17,14 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Self Directed - Independent
+- title: Actively Looking for Full-Time Job 
   title-url:
   date: Jan 2020 - Present
   subtitle: Data Scientist & Machine Learning Engineer
   tags:
     - tag: Python
+    - tag: Machine Learning
     - tag: Deep Learning
-    - tag: Computer Vision
     - tag: Natural Language Processing
   timeline-side: right
 
