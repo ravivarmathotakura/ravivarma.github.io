@@ -34,11 +34,11 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title
-about_me_description: Currently studying and working on Deep Learning, Computer Vision and Natural Language Processing. I am looking for a job, from January 2020, which would allow me at first to refine my technical skills and my professional qualities. I currently live in Andhra Pradesh(Visakhapatnam), but I am mobile. I was previously Data Scientist and Founder at Dynamic Cancer Care Pvt Ltd (Healthcare Startup) which was shutdown in September 2019, where I advised the team and led strategic data and technology initiatives for Cancer treatment and Oncologist. My experience in applied data science includes leading teams, helping build products, and independent research in the areas of healthcare, education, Banking and Finance.
+about_me_description: I am keenly interested in creating and developing software that solves real-world problems using AI. Passionate about leveraging data to make efficient decisions by predicting the future. Although most of my work experience revolves around designing data-driven software, I am open and excited to explore other areas as well, as a Data Science Consultant or Machine learning architect and/or developer and/or engineer. Actively looking for full-time job starting from January 2020. I was previously a Data Science Consultant and Founder at Dynamic Cancer Care Pvt Ltd (Healthcare Startup) which was shutdown in September 2019, where I advised the team and led strategic data and technology initiatives for Cancer treatement and Oncologist. My experience in applied data science includes leading teams, helping build products, and independent research in the areas of healthcare, education, eCommerce, Banking and Finance.I started writing about seminal online machine learning, data science and deep learning resource. I am particularly interested in deep neural networks, natural language processing, algorithm design and optimization. I also post content for aspiring data scientists to help them enter the field and build a learning path to land their first role.
 
 # SKILLS SECTION
 # show_skills_card:
-# > setting this to true, will display the Skills section
+# > setting this to true, will display the Skills section 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
