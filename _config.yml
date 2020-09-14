@@ -14,7 +14,7 @@ baseurl: "/portfolio"
 username: Ravi Varma
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Scientist & Machine Learning Engineer
+typing_text: Data Scientist | Machine Learning | Deep Learning
 # email: Your E-Mail address for the email button.
 email: ravivarmathotakura@gmail.com
 # For every social button you want to display, set your username or userid
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1S__EHIFCHMwhINkUcPZA8JRHCd0czCYf/view?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1dPhtbpwxCZaQ10VgIYUaE8579Ra2gELD/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
